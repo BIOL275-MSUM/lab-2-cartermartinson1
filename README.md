@@ -1,9 +1,7 @@
 Lab 2: Introduction to RStudio
 ================
-\_\_\_
-2021-01-21
-
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE \_\_\_\_ WITH YOUR OWN TEXT
+Carter Martinson
+2021-01-22
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at
 MSUM.
@@ -12,13 +10,13 @@ MSUM.
 
 The objectives of this lab are:
 
--   
-
-    ------------------------------------------------------------------------
-
--   
-
-    ------------------------------------------------------------------------
+-   Use the console and source windows in RStudio
+-   Write and run code in an R script
+-   Document your R code with comments
+-   Transfer code from an R script to an R Markdown document
+-   Craft a narrative combining text explanation, code, and graphs
+-   Collaborate on Issues in GitHub
+-   Conduct peer review of an assignment
 
 ## Repository contents
 
